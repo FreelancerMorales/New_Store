@@ -1,2 +1,2 @@
 # New_Store
-Proyecto de Practica - Administrador de Tienda
+<h1>Proyecto de Practica - Administrador de Tienda<h1>
