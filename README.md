@@ -1,2 +1,9 @@
-# New_Store
-<h1>Proyecto de Practica - Administrador de Tienda<h1>
+<h1>Proyecto de Practica - Administrador de Tienda<h1> <br>
+
+Inicio de proyecto el 2/07/2024
+
+<h3>Objetivos<h3>
+- Ventana Principal (Navegación, Detalles, consejos de uso)
+- Ventana Almacenamiento (Productos existentes (Añadir más y Administrarlos))
+- Ventana Ventas (Resta practica de elementos en existencia)
+- Ventana Contabilidad (Registro de ventas, Añadidos, Existencia y Planificación estimada a base de los datos recopilados)
