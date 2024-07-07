@@ -9,9 +9,9 @@
     - Detalles --
     - Consejos de Uso --
     - **Script de Funcionalidades**
-        -Navegación
-        -Botones
-        -
+        - Navegación
+        - Botones
+        - 
 - **Ventana Almacenamiento (Productos existentes (Añadir más y Administrarlos))**
     - 
 - **Ventana Ventas (Resta practica de elementos en existencia)**
