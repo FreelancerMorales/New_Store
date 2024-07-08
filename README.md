@@ -6,11 +6,11 @@
 
 - **Ventana Principal ()**
     - Navegación ✔️
-    - Detalles --
-    - Consejos de Uso --
+    - Detalles ✔️
+    - Contacto --
     - **Script de Funcionalidades**
-        - Navegación
-        - Botones
+        - Navegación --
+        - Botones --
         - 
 - **Ventana Almacenamiento (Productos existentes (Añadir más y Administrarlos))**
     - 
