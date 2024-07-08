@@ -6,6 +6,16 @@ p{
     font-family: "Open Sans", sans-serif;
 }
 
+.accordion div{
+    color: inherit;
+    background-color: inherit;
+    border: 1px solid #666;
+}
+
+.accordion{
+    /* Falta Arreglar que el titulo cambie de color */
+}
+
 nav{
     background-color: #1f1f1f;
     border-bottom: 1px solid #666;
