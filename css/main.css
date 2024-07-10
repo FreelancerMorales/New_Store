@@ -6,49 +6,17 @@ p{
     font-family: "Open Sans", sans-serif;
 }
 
-.accordion div{
-    color: inherit;
-    background-color: inherit;
-    border: 1px solid #666;
-}
-
-.custom-accordion-header {
-    background-color: #1f1f1f;
-    color: #fff;
-}
-
-.custom-accordion-header:focus {
-    box-shadow: 0 0 0 0.25rem #333;
-    border-color: #000;
-}
-
-.custom-accordion-header:not(.collapsed) {
-    background-color: #666;
-    color: #fff;
-}
-
-nav{
-    background-color: #1f1f1f;
-    border-bottom: 1px solid #666;
-}
-
-.card{
-    background-color: #1f1f1f;
-    border: 1px solid #666;
-    color: inherit;
-}
-
 .section-box {
-    background-color: #1f1f1f;
-    border: 1px solid #333;
     padding: 20px;
     margin: 20px 0;
     border-radius: 8px;
 }
+
 .section-title {
     font-size: 1.5rem;
     margin-bottom: 15px;
 }
+
 .main-container {
     padding: 30px;
 }

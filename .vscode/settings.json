@@ -1,11 +1,16 @@
 {
     "cSpell.ignoreWords": [
+        "accent",
         "assertive",
         "dismiss",
+        "secondary",
         "toast",
         "toggler"
     ],
     "cSpell.words": [
+        "accordion",
+        "Accordion",
+        "card",
         "Snack"
     ]
 }
