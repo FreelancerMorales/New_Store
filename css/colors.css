@@ -36,6 +36,10 @@ nav, footer{
     color: inherit;
 }
 
+.card:hover{
+    background-color: var(--color-bg-secondary-dark);
+}
+
 /* Style Accordion Start */
     .accordion div{
         color: inherit;
