@@ -24,9 +24,10 @@
     color: var(--color-link-dark);
 }
 
-nav{
+nav, footer{
     background-color: var(--color-bg-dark);
     border-bottom: 1px solid var(--color-text-secondary-dark);
+    border-top: 1px solid var(--color-text-secondary-dark);
 }
 
 .card{
