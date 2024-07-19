@@ -20,7 +20,7 @@
     --color-link-light: #1A73E8;
 }
 
-.contact > a{
+.contact-info > a{
     color: var(--color-link-dark);
 }
 
