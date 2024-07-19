@@ -41,3 +41,9 @@ footer {
 .contact-info a {
     font-size: 1.2em;
 }
+
+.custom-accordion-header{
+    position: relative;
+    margin: 3px 0;
+    font-weight: 600;
+}
