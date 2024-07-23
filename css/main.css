@@ -1,10 +1,22 @@
-h1, h2, h3, h4, h5, h6{
-    font-family: "Montserrat", sans-serif;
-}
+/* Elementos Reset Start */
+    h1, h2, h3, h4, h5, h6{
+        font-family: "Montserrat", sans-serif;
+    }
 
-p{
-    font-family: "Open Sans", sans-serif;
-}
+    p{
+        font-family: "Open Sans", sans-serif;
+    }
+
+    footer {
+        padding: 20px;
+        text-align: center;
+    }
+
+    select{
+        font-size: 1.2em;
+        border-radius: 8px;
+    }
+/* Elementos Reset End */
 
 .section-box {
     padding: 20px;
@@ -19,11 +31,6 @@ p{
 
 .main-container {
     padding: 30px;
-}
-
-footer {
-    padding: 20px;
-    text-align: center;
 }
 
 .contact {
