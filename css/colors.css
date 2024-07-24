@@ -57,6 +57,19 @@ nav, footer{
     border-top: 1px solid var(--color-text-secondary-dark);
 }
 
+.navbar-toggler:hover, .btn:hover{
+    border: 1px solid var(--color-accent-secondary-dark);
+}
+
+.navbar-toggler:focus{
+    box-shadow: 0px 0px 0px 5px var(--color-accent-primary-dark);
+    border: none;
+}
+
+h1, .card-title {
+    color: var(--color-accent-secondary-dark);
+}
+
 /* Card Start */
     .card{
         background-color: var(--color-bg-dark);
@@ -98,6 +111,6 @@ nav, footer{
 
     .custom-accordion-header.collapsed::after {
         content: '\25B6';
-        color: var(--color-link-dark);
+        color: var(--color-accent-secondary-dark);
     }
 /* Style Accordion End */
