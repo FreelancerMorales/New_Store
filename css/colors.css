@@ -49,6 +49,11 @@
     a:hover{
         color: var(--color-accent-primary-dark);
     }
+
+    .nav-link{
+        /* COlor Pestañas */
+        
+    }
 /* Link End */
 
 nav, footer{
@@ -59,14 +64,15 @@ nav, footer{
 
 .navbar-toggler:hover, .btn:hover{
     border: 1px solid var(--color-accent-secondary-dark);
+    box-shadow: 0px 0px 0px 3px var(--color-accent-secondary-dark);
 }
 
-.navbar-toggler:focus{
+.navbar-toggler:focus, .btn:focus{
     box-shadow: 0px 0px 0px 5px var(--color-accent-primary-dark);
     border: none;
 }
 
-h1, .card-title {
+h1, h3, .card-title, .navbar-brand {
     color: var(--color-accent-secondary-dark);
 }
 
@@ -79,6 +85,7 @@ h1, .card-title {
 
     .card:hover{
         background-color: var(--color-bg-secondary-dark);
+        border: 2px solid var(--color-accent-secondary-dark);
     }
 /* Card End */
 
