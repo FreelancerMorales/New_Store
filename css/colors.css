@@ -49,11 +49,6 @@
     a:hover{
         color: var(--color-accent-primary-dark);
     }
-
-    .nav-link{
-        /* COlor Pestañas */
-        
-    }
 /* Link End */
 
 nav, footer{
@@ -61,6 +56,28 @@ nav, footer{
     border-bottom: 1px solid var(--color-text-secondary-dark);
     border-top: 1px solid var(--color-text-secondary-dark);
 }
+
+/* Search Start */
+    .form-control{
+        background-color: var(--color-bg-secondary-dark);
+        color: var(--color-text-dark);
+        border: 1px solid var(--color-text-secondary-dark);
+    }
+
+    .form-control:hover{
+        border: 1px solid var(--color-accent-secondary-dark);
+    }
+
+    .form-control::placeholder{
+        color: var(--color-text-secondary-dark);
+    }
+
+    .form-control:focus{
+        border: 1px solid var(--color-accent-primary-dark); 
+        background-color: var(--color-bg-secondary-dark);
+        color: var(--color-text-primary-dark);
+    }
+/* Search End */
 
 .navbar-toggler:hover, .btn:hover{
     border: 1px solid var(--color-accent-secondary-dark);
@@ -72,7 +89,7 @@ nav, footer{
     border: none;
 }
 
-h1, h3, .card-title, .navbar-brand {
+h1, h2, h3, .card-title, .navbar-brand {
     color: var(--color-accent-secondary-dark);
 }
 
