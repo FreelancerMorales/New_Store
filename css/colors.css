@@ -102,7 +102,7 @@ h1, h2, h3, .card-title, .navbar-brand {
 
     .card:hover{
         background-color: var(--color-bg-secondary-dark);
-        border: 2px solid var(--color-accent-secondary-dark);
+        border: 1px solid var(--color-accent-secondary-dark);
     }
 /* Card End */
 
